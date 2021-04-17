@@ -1,4 +1,3 @@
-<center><img src="./assets/banner.png" alt="banner"/></center>
 
 Hey there 👋  
 
