@@ -1,11 +1,28 @@
-Hi, I'm Nag Bhushan 👋
+# Hi, I'm a Senior Backend & DevSecOps Engineer 👋
 
-    💻 Senior Backend & DevSecOps Engineer at Comcast | 5+ Years of Experience
+    💻 5+ Years of Experience in Distributed Systems, Cloud Infrastructure, and Observability. | AWS DVA & GCP PDE Certified
 
-I'm a passionate advocate for FOSS (Free and Open-Source Software), focused on building resilient, scalable, and cost-efficient distributed systems. My philosophy centers on combining deep infrastructure knowledge with robust application development to solve complex engineering challenges.
+I am a passionate advocate for FOSS (Free and Open-Source Software), focused on engineering resilient, scalable, and cost-efficient backends.
 
-### My Stack
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+## 🛠️ Core Expertise
+
+### Backend & Systems
+Go (Golang) (Primary Focus), Python (Flask, Django), PostgreSQL (Advanced Query Optimization, PostGIS), Distributed Systems (NATS, RabbitMQ).
+### Cloud & DevOps
+AWS (DVA Certified, Cost Optimization, Infrastructure Migration), GCP (PDE Certified), Prometheus, Grafana (Expert Dashboarding), Docker.
+### Data Analysis
+Python (Pandas, Plotly), Metabase, SNMP/NMS Data Export and Visualization.
+### Security & Research
+OpSec, Distributed Systems Research, ML/DL/AI Interest.
+
+## 🚀 Workflow & Philosophy
+
+My efficiency is terminal-driven, rooted in decades of FOSS enthusiasm.
+
+- Environment: I run Arch Linux with Sway WM and use the ergonomic Colemak keyboard layout.
+
+- Editor: My core workflow is built around Vim/Neovim within tmux/Zellij sessions.
+
+- Inspiration: Deeply influenced by the efficiency workflows of ThePrimeagen, Luke Smith, and the broader FOSS community (DistroTube, r/unixporn).
+
+- Hardware: I enjoy breathing life into old hardware with Linux, especially ThinkPads, and maintain a private homelab for ongoing software and hardware projects.
