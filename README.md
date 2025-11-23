@@ -1,4 +1,4 @@
-# Bhushan's Lab 🛠️
+# Hey there 👋
 
 ![FOSS](https://img.shields.io/badge/FOSS-100%25-brightgreen?style=flat-square) ![Privacy First](https://img.shields.io/badge/privacy-respected-blue?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-Arch-blue?logo=linux&style=flat-square) ![Go Green](https://img.shields.io/badge/Go--Green-%E2%98%83%EF%B8%8F-green?style=flat-square) ![Right to Repair](https://img.shields.io/badge/Right--to--Repair-%E2%9C%94%EF%B8%8F-blue?style=flat-square) ![Non-Conformist](https://img.shields.io/badge/Non--Conformist-%F0%9F%8E%B6-ff69b4?style=flat-square)
 
